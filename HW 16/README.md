@@ -1,3 +1,3 @@
 # Homework 16
 
-Simpson's Method code for numerical integration that I developed using MatLab
+LU Factorization Method for lower and upper decomposition that I developed using MatLab
